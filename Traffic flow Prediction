@@ -1,0 +1,2 @@
+This Project can help in city as well as road planning. It ias based on the time series concept where historical data is used for the prediciton of the upcoming events related to this project.
+Here the Temporal Convolutional Networks is used which is one of the best and advanced form of the recurrent neural networks.
